@@ -13,7 +13,7 @@ github_repo: "https://github.com/Linzhuo16/Linzhuo16.github.io" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "越是见识短浅的人越容易得到满足！"
+sidebar-about-description: "越是见识短浅的人越容易得到满足"
 sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
